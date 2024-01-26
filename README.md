@@ -1,8 +1,10 @@
 # Automation to search a word inside any folder(s) with an audio
 
-Added details to a file and dont know which nested folder its saved in! Here this executable comes to the rescue.
+Added changes to a file and don't remember which nested folder(s) it was saved into 😟. 
 
-Execute the SearchWordInFiles.exe file and search a word or phrase inside any folder(s) with an audio assistance.
+Here comes this executable to the rescue.
+
+Execute the SearchWordInFiles.exe file(inside zip) and search a word or phrase in any folder(s) with an audio assistance.
 
 Reference to the code: https://github.com/shrutisawant6/automation-with-speech-search-code.git
 
