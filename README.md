@@ -1,4 +1,4 @@
-# Automation to search a word inside any folder(s) with an audio
+# Automation to search a word/phrase inside any folder(s) with an audio assistance 
 
 Added changes to a file and don't remember which nested folder(s) it was saved into 😟 ! 
 
