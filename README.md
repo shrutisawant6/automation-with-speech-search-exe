@@ -2,7 +2,7 @@
 
 Added changes to a file and don't remember which nested folder(s) it was saved into 😟 ! 
 
-Here comes this executable to the rescue.
+Here comes this executable to the rescue 😃 ! 
 
 Execute the SearchWordInFiles.exe file(inside zip) and search a word or phrase in any folder(s) with an audio assistance.
 
