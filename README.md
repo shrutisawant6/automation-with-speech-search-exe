@@ -1,6 +1,6 @@
 # Automation to search a word inside any folder(s) with an audio
 
-Added changes to a file and don't remember which nested folder(s) it was saved into 😟. 
+Added changes to a file and don't remember which nested folder(s) it was saved into 😟 ! 
 
 Here comes this executable to the rescue.
 
