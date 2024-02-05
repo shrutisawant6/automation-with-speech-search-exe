@@ -10,3 +10,4 @@ Reference to the code: https://github.com/shrutisawant6/automation-with-speech-s
 
 Audio compatible on Windows, it automatically turns off if not compatible(you can even choose).
 
+![image](https://github.com/shrutisawant6/automation-with-speech-search-exe/assets/140047758/129657d8-c16b-4776-9cb5-64f6f5a6959d)
